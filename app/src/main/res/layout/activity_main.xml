@@ -30,6 +30,6 @@
         android:layout_centerVertical="false"
         android:text="@string/title"
         android:textColor="@android:color/background_dark"
-        android:textSize="40sp" />
+        android:textSize="40sp"/>
 
 </RelativeLayout>
